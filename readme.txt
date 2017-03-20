@@ -4,3 +4,4 @@ Git has a mutable index called stage
 my lover is zyy
 today is my lover of the birthday
 creating a dev branch
+creating new dev
